@@ -20,4 +20,5 @@ hello world
 hello world
 hello world
 third test! master fix
+third test! hot-fix
 hello hot-fix
